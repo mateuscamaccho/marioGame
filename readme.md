@@ -8,7 +8,7 @@ HTML, CSS, Javascript
 
 Você pode ver o projeto através do link abaixo :)
 
-<a href="http://mmariogame.herokuapp.com/" target="_blank" alt="">Buscador CEP</a>
+<a href="http://mmariogame.herokuapp.com/" target="_blank" alt="">MarioGame</a>
 
 ---
 ## Tech Mateus
