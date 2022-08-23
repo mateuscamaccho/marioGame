@@ -8,7 +8,7 @@ HTML, CSS, Javascript
 
 Você pode ver o projeto através do link abaixo :)
 
-<a href="http://mmariogame.herokuapp.com/" target="_blank" alt="">MarioGame</a>
+<a href="https://github.com/mateuscamaccho/marioGame" target="_blank" alt="">MarioGame</a>
 
 ---
 ## Tech Mateus
